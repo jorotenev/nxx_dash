@@ -1,0 +1,8 @@
+[package]
+name = "nxx_dash"
+version = "0.1.0"
+authors = ["Georgi Tenev"]
+edition = "2018"
+
+[dependencies]
+ssh2 = '0.3.3'
